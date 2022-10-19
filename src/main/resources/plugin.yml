@@ -1,0 +1,6 @@
+name: BarkBack
+version: '${project.version}'
+main: me.velvi.barkback.Main
+api-version: 1.19
+authors: [ Velvi ]
+description: Позволяет вернуть кору на обтёсанное бревно повторным нажатием топора
